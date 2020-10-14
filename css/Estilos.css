@@ -48,3 +48,13 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+<<<<<<< HEAD
+=======
+#footer
+{
+    background: #777;
+    color: #DDD;
+    text-align: center;
+    padding: 0.5em;
+}
+>>>>>>> footer
